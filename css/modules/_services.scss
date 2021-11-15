@@ -1,0 +1,22 @@
+.services {
+    background: #F5F5F9;
+
+    .itemku {
+        display: block;
+    }
+
+    &-judul {
+        text-align: center;
+        border-bottom: 3px solid #66C4AF;
+    }
+
+    &-item {
+        // img {
+        //     margin: 10px 120px;
+        // }
+
+        padding: 40px;
+        border-radius: 30px;
+        background: white;
+    }
+}
